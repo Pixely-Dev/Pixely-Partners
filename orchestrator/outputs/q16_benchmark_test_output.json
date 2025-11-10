@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "analysis": "Q16 Benchmark",
+    "timestamp": "2025-11-10T17:48:52.487238Z"
+  },
+  "benchmark": {
+    "client_er_mean": 0.0060614875948328895,
+    "competitor_ers": [
+      {
+        "name": "CompetitorA",
+        "username": "competitor_a_insta",
+        "er": 0.7267393957433141,
+        "followers": 784888
+      },
+      {
+        "name": "CompetitorB",
+        "username": "competitor_b_insta",
+        "er": 0.896659610650451,
+        "followers": 775001
+      }
+    ],
+    "results": {
+      "er_mean": 0.5431534979961993,
+      "er_std_dev": 0.47283093234924684,
+      "followers_mean": 880667.0,
+      "followers_std_dev": 174526.51434953944
+    }
+  },
+  "errors": [],
+  "actors": [
+    {
+      "actor": "PixelyBrand",
+      "username": "pixelybrand",
+      "followers": 1082112,
+      "er": 0.0060614875948328895
+    },
+    {
+      "name": "CompetitorA",
+      "username": "competitor_a_insta",
+      "er": 0.7267393957433141,
+      "followers": 784888
+    },
+    {
+      "name": "CompetitorB",
+      "username": "competitor_b_insta",
+      "er": 0.896659610650451,
+      "followers": 775001
+    }
+  ]
+}

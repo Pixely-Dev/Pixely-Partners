@@ -1,0 +1,32 @@
+{
+    "ranking_global": [
+        {
+            "content_type": "Carrusel",
+            "er_promedio": 0.2976580086580087
+        },
+        {
+            "content_type": "Imagen",
+            "er_promedio": 0.199584032837217
+        },
+        {
+            "content_type": "Reel",
+            "er_promedio": 0.02706522126223213
+        },
+        {
+            "content_type": "Video",
+            "er_promedio": 0.03858138401559454
+        }
+    ],
+    "ranking_por_red_social": [
+        {
+            "social_network": "Instagram",
+            "ranking": {
+                "Carrusel": 0.2976580086580087,
+                "Imagen": 0.199584032837217,
+                "Reel": 0.02706522126223213,
+                "Video": 0.03858138401559454
+            }
+        }
+    ],
+    "p_value_general_anova": 1.0946617576129122e-11
+}

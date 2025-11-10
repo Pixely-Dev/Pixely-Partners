@@ -1,0 +1,254 @@
+{
+  "engagement_global_promedio": 0.006492575695441187,
+  "engagement_segmentado_red": [
+    {
+      "social_network": "Instagram",
+      "engagement_rate": 0.006492575695441187
+    }
+  ],
+  "serie_temporal_er": [
+    {
+      "week_start": "2024-11-17",
+      "engagement_rate": 0.006999051671109289
+    },
+    {
+      "week_start": "2024-11-24",
+      "engagement_rate": 0.010459811359442281
+    },
+    {
+      "week_start": "2024-12-01",
+      "engagement_rate": 0.008814332581505024
+    },
+    {
+      "week_start": "2024-12-08",
+      "engagement_rate": 0.0014763174082427723
+    },
+    {
+      "week_start": "2024-12-15",
+      "engagement_rate": 0.0034088579044494567
+    },
+    {
+      "week_start": "2024-12-22",
+      "engagement_rate": 0.008739683719499692
+    },
+    {
+      "week_start": "2024-12-29",
+      "engagement_rate": 0.008054387943407832
+    },
+    {
+      "week_start": "2025-01-05",
+      "engagement_rate": 0.007436692638917367
+    },
+    {
+      "week_start": "2025-01-12",
+      "engagement_rate": 0.004631433258150503
+    },
+    {
+      "week_start": "2025-01-19",
+      "engagement_rate": 0.0035241952019684233
+    },
+    {
+      "week_start": "2025-01-26",
+      "engagement_rate": 0.007229512678559223
+    },
+    {
+      "week_start": "2025-02-02",
+      "engagement_rate": 0.00091629075251179
+    },
+    {
+      "week_start": "2025-02-09",
+      "engagement_rate": 0.005090646572346388
+    },
+    {
+      "week_start": "2025-02-16",
+      "engagement_rate": 0.008784003144009294
+    },
+    {
+      "week_start": "2025-02-23",
+      "engagement_rate": 0.0026253331966372773
+    },
+    {
+      "week_start": "2025-03-02",
+      "engagement_rate": 0.01061615747385688
+    },
+    {
+      "week_start": "2025-03-09",
+      "engagement_rate": 0.0020517223703096165
+    },
+    {
+      "week_start": "2025-03-16",
+      "engagement_rate": 0.008395273733852779
+    },
+    {
+      "week_start": "2025-03-23",
+      "engagement_rate": 0.0025079454582735286
+    },
+    {
+      "week_start": "2025-03-30",
+      "engagement_rate": 0.005078365286036498
+    },
+    {
+      "week_start": "2025-04-06",
+      "engagement_rate": 0.009222498462169366
+    },
+    {
+      "week_start": "2025-04-13",
+      "engagement_rate": 0.008515737133483699
+    },
+    {
+      "week_start": "2025-04-20",
+      "engagement_rate": 0.00776668546237441
+    },
+    {
+      "week_start": "2025-04-27",
+      "engagement_rate": 0.004821099036292803
+    },
+    {
+      "week_start": "2025-05-04",
+      "engagement_rate": 0.006605302952634816
+    },
+    {
+      "week_start": "2025-05-11",
+      "engagement_rate": 0.00954480213245848
+    },
+    {
+      "week_start": "2025-05-18",
+      "engagement_rate": 0.005863748205864261
+    },
+    {
+      "week_start": "2025-05-25",
+      "engagement_rate": 0.006680912958786139
+    },
+    {
+      "week_start": "2025-06-01",
+      "engagement_rate": 0.004599395119950789
+    },
+    {
+      "week_start": "2025-06-08",
+      "engagement_rate": 0.006130818125897068
+    },
+    {
+      "week_start": "2025-06-15",
+      "engagement_rate": 0.005627819356161575
+    },
+    {
+      "week_start": "2025-06-22",
+      "engagement_rate": 0.007817946483493952
+    },
+    {
+      "week_start": "2025-06-29",
+      "engagement_rate": 0.006229815972934181
+    },
+    {
+      "week_start": "2025-07-06",
+      "engagement_rate": 0.005765903731802338
+    },
+    {
+      "week_start": "2025-07-13",
+      "engagement_rate": 0.0069913625179413574
+    },
+    {
+      "week_start": "2025-07-20",
+      "engagement_rate": 0.0038522657371334837
+    },
+    {
+      "week_start": "2025-07-27",
+      "engagement_rate": 0.008663753331966373
+    },
+    {
+      "week_start": "2025-08-03",
+      "engagement_rate": 0.008575541658123163
+    },
+    {
+      "week_start": "2025-08-10",
+      "engagement_rate": 0.00686833606725446
+    },
+    {
+      "week_start": "2025-08-17",
+      "engagement_rate": 0.005247847037112979
+    },
+    {
+      "week_start": "2025-08-24",
+      "engagement_rate": 0.007562709315836237
+    },
+    {
+      "week_start": "2025-08-31",
+      "engagement_rate": 0.004346934590937052
+    },
+    {
+      "week_start": "2025-09-07",
+      "engagement_rate": 0.007950584375640763
+    },
+    {
+      "week_start": "2025-09-14",
+      "engagement_rate": 0.006798279338391087
+    },
+    {
+      "week_start": "2025-09-21",
+      "engagement_rate": 0.003894128904381109
+    },
+    {
+      "week_start": "2025-09-28",
+      "engagement_rate": 0.006068023375025631
+    },
+    {
+      "week_start": "2025-10-05",
+      "engagement_rate": null
+    },
+    {
+      "week_start": "2025-10-12",
+      "engagement_rate": 0.0064656166700840685
+    },
+    {
+      "week_start": "2025-10-19",
+      "engagement_rate": 0.00851894094730367
+    },
+    {
+      "week_start": "2025-10-26",
+      "engagement_rate": 0.008379254664752922
+    },
+    {
+      "week_start": "2025-11-02",
+      "engagement_rate": 0.0049848139224933355
+    },
+    {
+      "week_start": "2025-11-09",
+      "engagement_rate": null
+    },
+    {
+      "week_start": "2025-11-16",
+      "engagement_rate": 0.006974061923313513
+    }
+  ],
+  "benchmark_comparativo": {
+    "z_score_er": -0.06259425313628333,
+    "competitor_mean_er": 0.0067081197457453355,
+    "competitor_mean_by_network": {
+      "Instagram": 0.0067081197457453355
+    }
+  },
+  "actors": [
+    {
+      "actor": "PixelyBrand",
+      "username": "pixelybrand",
+      "followers": {
+        "instagram": 780320,
+        "tiktok": 232656,
+        "other": 69136
+      },
+      "er_mean": 0.0060614875948328895
+    },
+    {
+      "actor": "CompetitorA",
+      "username": "competitor_a_insta",
+      "followers": 784888,
+      "er_mean": 0.006166931515275784
+    },
+    {
+      "actor": "CompetitorB",
+      "username": "competitor_b_insta",
+      "followers": 775001,
+      "er_mean": 0.007249307976214886
+    }
+  ]
+}

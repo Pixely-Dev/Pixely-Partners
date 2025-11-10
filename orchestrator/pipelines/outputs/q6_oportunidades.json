@@ -1,0 +1,5 @@
+{
+    "oportunidades_identificadas": [],
+    "resumen_ejecutivo": "Error al procesar: Error code: 429 - {'error': {'message': 'Your account is not active, please check your billing details on our website.', 'type': 'billing_not_active', 'param': None, 'code': 'billing_not_active'}}",
+    "error": "Error code: 429 - {'error': {'message': 'Your account is not active, please check your billing details on our website.', 'type': 'billing_not_active', 'param': None, 'code': 'billing_not_active'}}"
+}

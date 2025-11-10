@@ -1,0 +1,8 @@
+{
+  "top_influenciadores_detallado": [],
+  "resumen_polaridad": {
+    "Promotor": 0,
+    "Detractor": 0
+  },
+  "error": "'NoneType' object has no attribute 'chat'"
+}

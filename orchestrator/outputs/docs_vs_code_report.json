@@ -1,0 +1,289 @@
+[
+  {
+    "doc": "q10_resumen_ejecutivo.md",
+    "qid": "q10",
+    "doc_mentions_actors": false,
+    "analyzer_has_actors": false,
+    "analyzer_keys": [
+      "fecha_analisis",
+      "resumen",
+      "puntos_clave",
+      "errors"
+    ],
+    "actors_count": 0,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q10_resumen_ejecutivo.json"
+  },
+  {
+    "doc": "q11_engagement.md",
+    "qid": "q11",
+    "doc_mentions_actors": true,
+    "analyzer_has_actors": true,
+    "analyzer_keys": [
+      "engagement_global_promedio",
+      "engagement_segmentado_red",
+      "serie_temporal_er",
+      "benchmark_comparativo",
+      "actors"
+    ],
+    "actors_count": 3,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q11_engagement_test_output.json"
+  },
+  {
+    "doc": "q12_comunidad.md",
+    "qid": "q12",
+    "doc_mentions_actors": true,
+    "analyzer_has_actors": true,
+    "analyzer_keys": [
+      "total_seguidores_cliente",
+      "z_score_tamano_comunidad",
+      "ranking_por_red_social",
+      "benchmark_metrics",
+      "actors"
+    ],
+    "actors_count": 3,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q12_comunidad_test_output.json"
+  },
+  {
+    "doc": "q13_frecuencia.md",
+    "qid": "q13",
+    "doc_mentions_actors": true,
+    "analyzer_has_actors": true,
+    "analyzer_keys": [
+      "posts_por_dia_promedio_global",
+      "frecuencia_por_red",
+      "consistencia_desviacion",
+      "benchmark_comparativo",
+      "actors"
+    ],
+    "actors_count": 3,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q13_test_output.json"
+  },
+  {
+    "doc": "q14_formatos.md",
+    "qid": "q14",
+    "doc_mentions_actors": false,
+    "analyzer_has_actors": false,
+    "analyzer_keys": [
+      "ranking_global",
+      "ranking_por_red_social",
+      "p_value_general_anova"
+    ],
+    "actors_count": 0,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q14_formatos.json"
+  },
+  {
+    "doc": "q15_hashtags.md",
+    "qid": "q15",
+    "doc_mentions_actors": false,
+    "analyzer_has_actors": false,
+    "analyzer_keys": [
+      "ranking_hashtags_eficientes"
+    ],
+    "actors_count": 0,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q15_hashtags.json"
+  },
+  {
+    "doc": "q16_benchmark.md",
+    "qid": "q16",
+    "doc_mentions_actors": true,
+    "analyzer_has_actors": true,
+    "analyzer_keys": [
+      "metadata",
+      "benchmark",
+      "errors",
+      "actors"
+    ],
+    "actors_count": 3,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q16_benchmark_test_output.json"
+  },
+  {
+    "doc": "q17_sentimiento_agrupado.md",
+    "qid": "q17",
+    "doc_mentions_actors": true,
+    "analyzer_has_actors": true,
+    "analyzer_keys": [
+      "metadata",
+      "groups",
+      "errors",
+      "actors"
+    ],
+    "actors_count": 3,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q17_test_output.json"
+  },
+  {
+    "doc": "q18_anomalias.md",
+    "qid": "q18",
+    "doc_mentions_actors": false,
+    "analyzer_has_actors": false,
+    "analyzer_keys": [
+      "metadata",
+      "anomalies",
+      "errors",
+      "summary"
+    ],
+    "actors_count": 0,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q18_anomalias.json"
+  },
+  {
+    "doc": "q19_correlacion.md",
+    "qid": "q19",
+    "doc_mentions_actors": false,
+    "analyzer_has_actors": false,
+    "analyzer_keys": [
+      "metadata",
+      "correlation_matrix",
+      "top_pairs",
+      "errors"
+    ],
+    "actors_count": 0,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q19_correlacion.json"
+  },
+  {
+    "doc": "q1_emociones.md",
+    "qid": "q1",
+    "doc_mentions_actors": true,
+    "analyzer_has_actors": false,
+    "analyzer_keys": [
+      "resumen_global_emociones",
+      "analisis_por_publicacion"
+    ],
+    "actors_count": 0,
+    "has_analisis_por_publicacion": true,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q1_emociones.json"
+  },
+  {
+    "doc": "q20_kpi_global.md",
+    "qid": "q20",
+    "doc_mentions_actors": true,
+    "analyzer_has_actors": true,
+    "analyzer_keys": [
+      "metadata",
+      "kpis",
+      "errors",
+      "actors"
+    ],
+    "actors_count": 3,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q20_test_output.json"
+  },
+  {
+    "doc": "q2_personalidad.md",
+    "qid": "q2",
+    "doc_mentions_actors": false,
+    "analyzer_has_actors": false,
+    "analyzer_keys": [
+      "analisis_agregado",
+      "analisis_por_publicacion"
+    ],
+    "actors_count": 0,
+    "has_analisis_por_publicacion": true,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q2_personalidad.json"
+  },
+  {
+    "doc": "q3_temas.md",
+    "qid": "q3",
+    "doc_mentions_actors": false,
+    "analyzer_has_actors": false,
+    "analyzer_keys": [
+      "analisis_agregado",
+      "analisis_por_publicacion"
+    ],
+    "actors_count": 0,
+    "has_analisis_por_publicacion": true,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q3_topicos.json"
+  },
+  {
+    "doc": "q4_marcos_narrativos.md",
+    "qid": "q4",
+    "doc_mentions_actors": false,
+    "analyzer_has_actors": false,
+    "analyzer_keys": [
+      "marcos_narrativos"
+    ],
+    "actors_count": 0,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q4_marcos_narrativos.json"
+  },
+  {
+    "doc": "q5_influenciadores.md",
+    "qid": "q5",
+    "doc_mentions_actors": true,
+    "analyzer_has_actors": false,
+    "analyzer_keys": [
+      "top_influenciadores_detallado",
+      "resumen_polaridad",
+      "actors"
+    ],
+    "actors_count": 0,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q5_test_output.json"
+  },
+  {
+    "doc": "q6_oportunidades.md",
+    "qid": "q6",
+    "doc_mentions_actors": true,
+    "analyzer_has_actors": false,
+    "analyzer_keys": [
+      "oportunidades_identificadas",
+      "resumen_ejecutivo",
+      "error",
+      "actors"
+    ],
+    "actors_count": 0,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q6_test_output.json"
+  },
+  {
+    "doc": "q7_sentimiento_detallado.md",
+    "qid": "q7",
+    "doc_mentions_actors": false,
+    "analyzer_has_actors": false,
+    "analyzer_keys": [
+      "analisis_agregado",
+      "analisis_por_publicacion"
+    ],
+    "actors_count": 0,
+    "has_analisis_por_publicacion": true,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q7_sentimiento_detallado.json"
+  },
+  {
+    "doc": "q8_temporal.md",
+    "qid": "q8",
+    "doc_mentions_actors": false,
+    "analyzer_has_actors": false,
+    "analyzer_keys": [
+      "tendencia_general",
+      "patrones_dia_semana",
+      "horas_pico",
+      "momentos_destacados"
+    ],
+    "actors_count": 0,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q8_temporal.json"
+  },
+  {
+    "doc": "q9_recomendaciones.md",
+    "qid": "q9",
+    "doc_mentions_actors": false,
+    "analyzer_has_actors": false,
+    "analyzer_keys": [
+      "lista_recomendaciones",
+      "metadata",
+      "fallback",
+      "error"
+    ],
+    "actors_count": 0,
+    "has_analisis_por_publicacion": false,
+    "sample_output_file": "c:\\Users\\ronal\\Music\\ultimo_intento\\pixely_stable\\orchestrator\\outputs\\q9_recomendaciones.json"
+  }
+]

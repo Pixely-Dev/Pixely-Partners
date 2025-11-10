@@ -1,0 +1,51 @@
+{
+  "total_seguidores_cliente": 1082112.0,
+  "z_score_tamano_comunidad": null,
+  "ranking_por_red_social": [
+    {
+      "social_network": "Instagram",
+      "followers": 780320.0
+    },
+    {
+      "social_network": "TikTok",
+      "followers": 232656.0
+    },
+    {
+      "social_network": "Otra",
+      "followers": 69136.0
+    }
+  ],
+  "benchmark_metrics": {
+    "mu": null,
+    "sigma": null
+  },
+  "actors": [
+    {
+      "actor": "PixelyBrand",
+      "username": "pixelybrand",
+      "followers": {
+        "instagram": 780320,
+        "tiktok": 232656,
+        "other": 69136
+      }
+    },
+    {
+      "actor": "CompetitorA",
+      "username": "competitor_a_insta",
+      "followers": {
+        "instagram": 784888,
+        "tiktok": 83984,
+        "other": 25123
+      }
+    },
+    {
+      "actor": "CompetitorB",
+      "username": "competitor_b_insta",
+      "followers": {
+        "instagram": 775001,
+        "tiktok": 58276,
+        "other": 43826
+      }
+    }
+  ]
+}

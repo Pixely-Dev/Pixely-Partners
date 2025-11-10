@@ -1,0 +1,13 @@
+.env
+gcp_credentials.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.idea/
+.vscode/
+.DS_Store

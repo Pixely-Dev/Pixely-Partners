@@ -1,0 +1,38 @@
+{
+    "metadata": {
+        "analysis": "Q19 Correlacion",
+        "timestamp": "2025-11-08T04:49:24.215067Z"
+    },
+    "correlation_matrix": {
+        "viewsCount": {
+            "viewsCount": 1.0,
+            "likesCount": 0.9644,
+            "commentsCount": 0.96
+        },
+        "likesCount": {
+            "viewsCount": 0.9644,
+            "likesCount": 1.0,
+            "commentsCount": 0.9666
+        },
+        "commentsCount": {
+            "viewsCount": 0.96,
+            "likesCount": 0.9666,
+            "commentsCount": 1.0
+        }
+    },
+    "top_pairs": [
+        {
+            "pair": "likesCount__commentsCount",
+            "corr": 0.9666109058599116
+        },
+        {
+            "pair": "viewsCount__likesCount",
+            "corr": 0.9644102103549114
+        },
+        {
+            "pair": "viewsCount__commentsCount",
+            "corr": 0.960016105849267
+        }
+    ],
+    "errors": []
+}

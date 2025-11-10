@@ -1,0 +1,32 @@
+{
+    "ranking_hashtags_eficientes": [
+        {
+            "hashtag": "#brand",
+            "er_normalizado": 0.15270715768650153,
+            "uso": 15,
+            "sentimiento_asociado": null,
+            "topico_dominante": null
+        },
+        {
+            "hashtag": "#tips",
+            "er_normalizado": 0.12273385195846498,
+            "uso": 12,
+            "sentimiento_asociado": null,
+            "topico_dominante": null
+        },
+        {
+            "hashtag": "#promo",
+            "er_normalizado": 0.11039498548740631,
+            "uso": 8,
+            "sentimiento_asociado": null,
+            "topico_dominante": null
+        },
+        {
+            "hashtag": "#IA",
+            "er_normalizado": 0.03306637866963954,
+            "uso": 6,
+            "sentimiento_asociado": null,
+            "topico_dominante": null
+        }
+    ]
+}

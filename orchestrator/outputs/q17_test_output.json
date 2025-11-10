@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "analysis": "Q17 Sentimiento Agrupado",
+    "timestamp": "2025-11-10T18:41:10.402383Z"
+  },
+  "groups": {
+    "Instagram|Imagen": {
+      "count": 37,
+      "positive": 0,
+      "neutral": 36,
+      "negative": 1,
+      "pct_positive": 0.0,
+      "pct_neutral": 0.972972972972973,
+      "pct_negative": 0.02702702702702703
+    },
+    "Instagram|Carrusel": {
+      "count": 41,
+      "positive": 0,
+      "neutral": 40,
+      "negative": 1,
+      "pct_positive": 0.0,
+      "pct_neutral": 0.975609756097561,
+      "pct_negative": 0.024390243902439025
+    },
+    "Instagram|Reel": {
+      "count": 39,
+      "positive": 0,
+      "neutral": 37,
+      "negative": 2,
+      "pct_positive": 0.0,
+      "pct_neutral": 0.9487179487179487,
+      "pct_negative": 0.05128205128205128
+    },
+    "Instagram|Video": {
+      "count": 33,
+      "positive": 0,
+      "neutral": 32,
+      "negative": 1,
+      "pct_positive": 0.0,
+      "pct_neutral": 0.9696969696969697,
+      "pct_negative": 0.030303030303030304
+    }
+  },
+  "errors": [],
+  "actors": [
+    {
+      "actor": "pixelybrand",
+      "count": 50,
+      "pct_positive": 0.0,
+      "pct_neutral": 0.98,
+      "pct_negative": 0.02
+    },
+    {
+      "actor": "competitor_a_insta",
+      "count": 50,
+      "pct_positive": 0.0,
+      "pct_neutral": 0.98,
+      "pct_negative": 0.02
+    },
+    {
+      "actor": "competitor_b_insta",
+      "count": 50,
+      "pct_positive": 0.0,
+      "pct_neutral": 0.94,
+      "pct_negative": 0.06
+    }
+  ]
+}

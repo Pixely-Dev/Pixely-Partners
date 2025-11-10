@@ -1,0 +1,17 @@
+{
+    "q11_engagement": {
+        "engagement_global_promedio": 0.035,
+        "benchmark_comparativo": {
+            "z_score_er": 0.0,
+            "media_competitiva_er": 0.035
+        }
+    },
+    "q12_community": {
+        "total_seguidores_cliente": 15000,
+        "z_score_tamano_comunidad": 0.6037855265119532,
+        "benchmark_metrics": {
+            "media_seguidores": 12600.0,
+            "std_dev_seguidores": 3974.9213828703582
+        }
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "oportunidades_identificadas": [],
+  "resumen_ejecutivo": "Error al procesar: 'NoneType' object has no attribute 'chat'",
+  "error": "'NoneType' object has no attribute 'chat'",
+  "actors": []
+}

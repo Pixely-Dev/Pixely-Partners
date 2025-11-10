@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "analysis": "Q17 Sentimiento Agrupado",
+        "timestamp": "2025-11-08T04:49:10.109724Z"
+    },
+    "groups": {
+        "Instagram|Reel": {
+            "count": 6,
+            "positive": 0,
+            "neutral": 6,
+            "negative": 0,
+            "pct_positive": 0.0,
+            "pct_neutral": 1.0,
+            "pct_negative": 0.0
+        },
+        "Instagram|Imagen": {
+            "count": 6,
+            "positive": 1,
+            "neutral": 5,
+            "negative": 0,
+            "pct_positive": 0.16666666666666666,
+            "pct_neutral": 0.8333333333333334,
+            "pct_negative": 0.0
+        },
+        "Instagram|Video": {
+            "count": 5,
+            "positive": 0,
+            "neutral": 5,
+            "negative": 0,
+            "pct_positive": 0.0,
+            "pct_neutral": 1.0,
+            "pct_negative": 0.0
+        },
+        "Instagram|Carrusel": {
+            "count": 3,
+            "positive": 0,
+            "neutral": 3,
+            "negative": 0,
+            "pct_positive": 0.0,
+            "pct_neutral": 1.0,
+            "pct_negative": 0.0
+        }
+    },
+    "errors": []
+}

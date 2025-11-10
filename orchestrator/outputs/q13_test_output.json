@@ -1,0 +1,29 @@
+{
+  "posts_por_dia_promedio_global": 0.4132231404958678,
+  "frecuencia_por_red": [
+    {
+      "social_network": "Instagram",
+      "posts_per_day": 0.4132231404958678,
+      "std_per_day": 0.6307421939779702
+    }
+  ],
+  "consistencia_desviacion": 0.6307421939779702,
+  "benchmark_comparativo": {
+    "competitor_mean_freq": null,
+    "z_score_frecuencia": null
+  },
+  "actors": [
+    {
+      "actor": "competitor_a_insta",
+      "posts_per_day": 0.14245014245014245
+    },
+    {
+      "actor": "competitor_b_insta",
+      "posts_per_day": 0.14204545454545456
+    },
+    {
+      "actor": "pixelybrand",
+      "posts_per_day": 0.15625
+    }
+  ]
+}

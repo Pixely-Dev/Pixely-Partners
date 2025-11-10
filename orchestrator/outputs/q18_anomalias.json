@@ -1,0 +1,14 @@
+{
+    "metadata": {
+        "analysis": "Q18 Anomalias",
+        "timestamp": "2025-11-08T04:49:15.949187Z"
+    },
+    "anomalies": [],
+    "errors": [],
+    "summary": {
+        "mean_views": 28626.733333333334,
+        "std_views": 29603.931062485284,
+        "upper_threshold": 117438.5265207892,
+        "lower_threshold": 0.0
+    }
+}

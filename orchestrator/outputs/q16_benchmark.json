@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "analysis": "Q16 Benchmark",
+        "timestamp": "2025-11-08T04:48:54.846528Z"
+    },
+    "benchmark": {
+        "client_er_mean": 0.001562988542635598,
+        "competitor_ers": [
+            0.0812978927203065,
+            0.10548611111111111
+        ],
+        "results": {
+            "er_mean": 0.06278233079135108,
+            "er_std_dev": 0.05437943891080832,
+            "followers_mean": 1241519.0,
+            "followers_std_dev": 0.0
+        }
+    },
+    "errors": []
+}

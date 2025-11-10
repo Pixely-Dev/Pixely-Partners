@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "analysis": "Q20 KPI Global",
+    "timestamp": "2025-11-10T18:41:10.404752Z"
+  },
+  "kpis": {
+    "total_posts": 50,
+    "total_views": 1711245,
+    "avg_likes": 4455.86,
+    "avg_comments": 274.04,
+    "avg_engagement_rate": 0.00437098932458008,
+    "content_type_counts": {
+      "Carrusel": 16,
+      "Reel": 15,
+      "Imagen": 10,
+      "Video": 9
+    },
+    "followers_total": 1082112
+  },
+  "errors": [],
+  "actors": [
+    {
+      "actor": "PixelyBrand",
+      "username": "pixelybrand",
+      "followers": 1082112,
+      "total_posts": 50,
+      "total_views": 1711245,
+      "avg_engagement_rate": 0.00437098932458008
+    },
+    {
+      "actor": "competitor_a_insta",
+      "username": "competitor_a_insta",
+      "total_posts": 50,
+      "total_views": 1591490,
+      "avg_likes": 4563.86
+    },
+    {
+      "actor": "competitor_b_insta",
+      "username": "competitor_b_insta",
+      "total_posts": 50,
+      "total_views": 1297214,
+      "avg_likes": 5404.82
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "analysis": "Q20 KPI Global",
+        "timestamp": "2025-11-08T04:49:30.844309Z"
+    },
+    "kpis": {
+        "total_posts": 15,
+        "total_views": 429401,
+        "avg_likes": 1122.6666666666667,
+        "avg_comments": 75.4,
+        "avg_engagement_rate": 0.0009650006698783237,
+        "content_type_counts": {
+            "Reel": 4,
+            "Imagen": 4,
+            "Video": 4,
+            "Carrusel": 3
+        },
+        "followers_total": 1241519
+    },
+    "errors": []
+}

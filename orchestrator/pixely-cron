@@ -1,0 +1,4 @@
+### Tarea programada para ejecutar los pipelines de Pixely
+### Se ejecuta todos los días a las 6:00 AM y a las 2:00 PM (14:00).
+0 6,14 * * *   python3 /app/run_pipelines.py >> /var/log/cron.log 2>&1
+### La línea en blanco final es importante para cron
